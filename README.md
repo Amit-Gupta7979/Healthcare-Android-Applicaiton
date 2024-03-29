@@ -1,1 +1,1 @@
-Prject push successfully 
+Prject pushed successfully 
